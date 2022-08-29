@@ -4,3 +4,4 @@ interpreter/src/org/unp/plp/interprete/Lexer.java
 *.pdf
 *.tex
 material/
+clase/
