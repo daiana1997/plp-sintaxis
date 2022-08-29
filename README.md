@@ -154,3 +154,5 @@ Finalmente si el héroe muere no serı́a posible seguir jugando, pero se podrı
 Esto permite retroceder el estado tres pasos para volver a intentar. Se puede indicar cualquier número de pasos que retroceder.
 
 Para ganar el juego el héroe debe tomar el oro y volver a la casilla inicial. Los estados posibles del juego son playing, win o lose.
+#   P L P l a b o r a t o r i o  
+ 
